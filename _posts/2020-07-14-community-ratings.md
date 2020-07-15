@@ -2,7 +2,6 @@
 layout: post
 title:  "Community"
 date:  2020-07-10
-mathjax: true
 ---
 
 # Thinking about Community (1/2): Ratings 
