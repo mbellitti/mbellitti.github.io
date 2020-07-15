@@ -12,7 +12,7 @@ tags:
 
 # Thinking about Community (1/2): Ratings 
 
-**Note;** this post also esists as a [Gist](https://gist.github.com/mbellitti/a26071f8bf3f52005e18bdc8e70842bf), so you can download it, modify and run it yourself.
+**Note:** this post also exists as a [Gist](https://gist.github.com/mbellitti/a26071f8bf3f52005e18bdc8e70842bf), so you can download it, modify and run it yourself.
 
 I have just finished watching Community for the first time, and it is a good show. It left me with two persistent unresolved questions, though:
 
