@@ -1,7 +1,12 @@
 ---
-layout: post
 title:  "Community"
+excerpt_separator: "<!--more-->"
 date:  2020-07-10
+categories:
+  - Blog
+tags:
+  - jupyter 
+  - pandas
 ---
 
 # Thinking about Community (1/2): Ratings 

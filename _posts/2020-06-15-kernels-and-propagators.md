@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Kernels and Propagators"
 date:  2020-06-15
 mathjax: true
