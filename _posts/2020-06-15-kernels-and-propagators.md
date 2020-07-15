@@ -1,11 +1,12 @@
 ---
 title:  "Kernels and Propagators"
 date:  2020-06-15
-mathjax: true
+toc: true
 ---
 
-- toc
-{:toc}
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 A linear PDE looks like this
 
