@@ -12,10 +12,10 @@ tags:
 # Thinking about Community (1/2): Ratings 
 I have just finished watching Community for the first time, and it is a good show. It left me with two persistent unresolved questions, though:
 
-1. I think that the quality drops significantly around season 4, and it stays low untile the end. Does it really?;
+1. I think that the quality drops significantly around season 4, and it stays low untile the end. Does it really?
 1. I've seen many of these people before, where?.
 
-In this post I'll look at the ratings of the episodes, trying to answer my first questions. I have an idea for the second one that involves using [networkx](https://networkx.github.io/) to visualize the relations between actors who shared a production, but that's for another day.
+In this post I'll look at the ratings of the episodes, trying to answer my first question. I have an idea for the second one that involves using [networkx](https://networkx.github.io/) to visualize the relations between actors who shared a production, but that's for another day.
 
 First, I have to get my hands on the episode-by-episode ratings. Luckily, there is a nice package ([IMDbPY](https://imdbpy.github.io/)) designed to easily retrieve information about movies and TV shows from [IMDb](https://www.imdb.com/). 
 
