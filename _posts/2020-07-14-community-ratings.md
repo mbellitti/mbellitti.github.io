@@ -2,7 +2,6 @@
 title:  "Community"
 excerpt_separator: "<!--more-->"
 date:  2020-07-10
-classes: wide
 categories:
   - Blog
 tags:
