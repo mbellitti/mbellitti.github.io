@@ -2,6 +2,7 @@
 title:  "Some software I use"
 excerpt_separator: "<!--more-->"
 date:  2020-07-15
+toc: true
 categories:
   - Blog
 tags:

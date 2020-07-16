@@ -1,7 +1,6 @@
 ---
 title:  "Kernels and Propagators"
 date:  2020-06-15
-toc: true
 ---
 
 <script type="text/javascript" async
