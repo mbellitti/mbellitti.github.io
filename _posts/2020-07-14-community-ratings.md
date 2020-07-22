@@ -1,5 +1,5 @@
 ---
-title:  "Community"
+title:  "Community (1/2): Ratings, Pareto and Pivots"
 excerpt_separator: "<!--more-->"
 date: 2020-07-10
 categories:
@@ -8,8 +8,6 @@ tags:
   - jupyter 
   - pandas
 ---
-
-# Thinking about Community (1/2): Ratings 
 
 **Note:** this post also exists as a [Gist](https://gist.github.com/mbellitti/a26071f8bf3f52005e18bdc8e70842bf), so you can download it, modify and run it yourself.
 
