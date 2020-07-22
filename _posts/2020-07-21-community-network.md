@@ -277,12 +277,18 @@ for movie in shared[6]:
 jupyter notebook prints clickable links too.
 
 **BoJack Horseman**
-[Joel McHale] (https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg)
-[Alison Brie] (https://m.media-amazon.com/images/M/MV5BMjJkNDg5ZDctM2RlZS00NjFmLTkxZjktMWE5NGQzMDg4NDFhXkEyXkFqcGdeQXVyMTMwMDM1OTQ@.jpg)
-[Ken Jeong] (https://m.media-amazon.com/images/M/MV5BMTQyMTczNzU4Nl5BMl5BanBnXkFtZTYwODUxMjMy.jpg")
-[Yvette Nicole Brown] (https://m.media-amazon.com/images/M/MV5BMTUxNTYwMTQwNV5BMl5BanBnXkFtZTgwMjQ3NzMxOTE@.jpg")
-[Paget Brewster] (https://m.media-amazon.com/images/M/MV5BMDA3OGU0YjktNWY5ZC00MDUxLWJhMGUtMDJmZWZkMzczZDcyXkEyXkFqcGdeQXVyMTA4MDI5MTg5.jpg")
-[Keith David] (https://m.media-amazon.com/images/M/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@.jpg")
+
+[Joel McHale](https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg)
+
+[Alison Brie](https://m.media-amazon.com/images/M/MV5BMjJkNDg5ZDctM2RlZS00NjFmLTkxZjktMWE5NGQzMDg4NDFhXkEyXkFqcGdeQXVyMTMwMDM1OTQ@.jpg)
+
+[Ken Jeong](https://m.media-amazon.com/images/M/MV5BMTQyMTczNzU4Nl5BMl5BanBnXkFtZTYwODUxMjMy.jpg)
+
+[Yvette Nicole Brown](https://m.media-amazon.com/images/M/MV5BMTUxNTYwMTQwNV5BMl5BanBnXkFtZTgwMjQ3NzMxOTE@.jpg)
+
+[Paget Brewster](https://m.media-amazon.com/images/M/MV5BMDA3OGU0YjktNWY5ZC00MDUxLWJhMGUtMDJmZWZkMzczZDcyXkEyXkFqcGdeQXVyMTA4MDI5MTg5.jpg)
+
+[Keith David](https://m.media-amazon.com/images/M/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@.jpg)
 
 **Regular Show**
 [Joel McHale] (https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg")
