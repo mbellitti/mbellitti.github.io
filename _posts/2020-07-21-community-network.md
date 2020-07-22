@@ -274,9 +274,12 @@ for movie in shared[6]:
         display(HTML("""<a href="""+actor['full-size headshot']+"""">"""+actor['name']+"""</a>"""))
 ```
 
+**Note**: this output has been reformatted to appear a little nicer in the post, but the
+jupyter notebook prints clickable links too.
+
 **BoJack Horseman**
-<a href=https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg">Joel McHale</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMjJkNDg5ZDctM2RlZS00NjFmLTkxZjktMWE5NGQzMDg4NDFhXkEyXkFqcGdeQXVyMTMwMDM1OTQ@.jpg">Alison Brie</a>
+<a href=https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg>Joel McHale</a>
+<a href=https://m.media-amazon.com/images/M/MV5BMjJkNDg5ZDctM2RlZS00NjFmLTkxZjktMWE5NGQzMDg4NDFhXkEyXkFqcGdeQXVyMTMwMDM1OTQ@.jpg>Alison Brie</a>
 <a href=https://m.media-amazon.com/images/M/MV5BMTQyMTczNzU4Nl5BMl5BanBnXkFtZTYwODUxMjMy.jpg">Ken Jeong</a>
 <a href=https://m.media-amazon.com/images/M/MV5BMTUxNTYwMTQwNV5BMl5BanBnXkFtZTgwMjQ3NzMxOTE@.jpg">Yvette Nicole Brown</a>
 <a href=https://m.media-amazon.com/images/M/MV5BMDA3OGU0YjktNWY5ZC00MDUxLWJhMGUtMDJmZWZkMzczZDcyXkEyXkFqcGdeQXVyMTA4MDI5MTg5.jpg">Paget Brewster</a>
