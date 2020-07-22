@@ -259,7 +259,7 @@ for n in range(13,0,-1):
     
 
 
-A lot of these are cartoons! I didn't expect it. I think that in the spirit of the exercise I should keep them, since hearing a familiar voice still makes me wondere where else I heard it. 
+A lot of these are cartoons! I didn't expect it. I think that in the spirit of the exercise I should keep them, since hearing a familiar voice still makes me wonder where else I heard it. 
 
 There are a lot of shows I've heard about, and some I have watched already (Rick and Morty and Modern Family, for example). A show that's ranked high and I haven't watched yet is BoJack Horseman, let's check who are the actors in it. For this part it's convenient to have [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) installed: it's a Firefox addon that shows a popup with the linked image as you hover.
 
