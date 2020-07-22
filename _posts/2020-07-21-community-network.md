@@ -11,7 +11,7 @@ tags:
 
 **Note:** This post is a functioning Jupyter notebook, accessible as a Gist [here](https://gist.github.com/98c9776653fd522c4bbd4833bba88b08).
  
-This is the second part ([first part]({% post_url 2020-07-14-community-ratings.md %})) of my musings about Community. In this post I want to explore the work relations between members of the cast. 
+This is the second part ([first part](https://mbellitti.github.io/blog/community-ratings/)) of my musings about Community. In this post I want to explore the work relations between members of the cast. 
 
 I noticed that both Mike and Gus from Breaking Bad are in Community, so I thought: what else did I miss? The truth is that I don't watch that many TV shows and movies, so this could also be a way to discover new ones.
 
@@ -330,7 +330,7 @@ for movie in shared[6]:
 
 It seems BoJack is basically a reunion of Seson 6. I think I'll watch that next, and I'll give Regular Show a chance too.
 
-# Visualizing the network of coworkers
+##  Visualizing the network of coworkers
 Let's try something fancier. During my master's work I studied the dynamics of stochastic algorithms on random XORSAT instances, and visualized it using [networkx](https://networkx.github.io/), so I'm already a little familiar with it. 
 
 It would be nice to represent the relation between actors who worked on the same movies as a graph, but this kind of visualization becomes very quickly hard to manage. To reduce a little the information density presented, I will keep only movies that have at least 6 people of the Community cast.
