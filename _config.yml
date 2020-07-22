@@ -76,7 +76,7 @@ defaults:
       read_time: false
       comments: true
       share: false
-      classes: wide
+      # classes: wide
       related: true
   # _pages
   - scope:
