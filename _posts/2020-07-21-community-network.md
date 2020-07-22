@@ -292,17 +292,17 @@ jupyter notebook prints clickable links too.
 
 **Regular Show**
 
-[Joel McHale](https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg")
+[Joel McHale](https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg)
 
-[Gillian Jacobs](https://m.media-amazon.com/images/M/MV5BMTk5OTc5MTM1OV5BMl5BanBnXkFtZTcwMTU4NDI1NA@@.jpg")
+[Gillian Jacobs](https://m.media-amazon.com/images/M/MV5BMTk5OTc5MTM1OV5BMl5BanBnXkFtZTcwMTU4NDI1NA@@.jpg)
 
-[Yvette Nicole Brown](https://m.media-amazon.com/images/M/MV5BMTUxNTYwMTQwNV5BMl5BanBnXkFtZTgwMjQ3NzMxOTE@.jpg")
+[Yvette Nicole Brown](https://m.media-amazon.com/images/M/MV5BMTUxNTYwMTQwNV5BMl5BanBnXkFtZTgwMjQ3NzMxOTE@.jpg)
 
-[Donald Glover](https://m.media-amazon.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@.jpg")
+[Donald Glover](https://m.media-amazon.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@.jpg)
 
-[Keith David](https://m.media-amazon.com/images/M/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@.jpg")
+[Keith David](https://m.media-amazon.com/images/M/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@.jpg)
 
-[Eddie Pepitone](https://m.media-amazon.com/images/M/MV5BMTgxNTIyNzIxNV5BMl5BanBnXkFtZTgwODA1NTM2NzE@.jpg")
+[Eddie Pepitone](https://m.media-amazon.com/images/M/MV5BMTgxNTIyNzIxNV5BMl5BanBnXkFtZTgwODA1NTM2NzE@.jpg)
 
 
 It seems BoJack is basically a reunion of Seson 6. I think I'll watch that next, and I'll give Regular Show a chance too.
