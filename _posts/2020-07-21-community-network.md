@@ -373,8 +373,7 @@ nx.draw_networkx_labels(G,pos=pos,ax=ax,font_size=8)
 nx.draw_networkx_edges(G,pos=pos,alpha=0.5,width=0.5);
 ```
 
-
-![svg](Community-Copy1_files/Community-Copy1_37_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/Community-Copy1_files/Community-Copy1_37_0.svg)
 
 
 An interesting side effect of the [Kamada Kawai](https://www.sciencedirect.com/science/article/abs/pii/0020019089901026?via%3Dihub) layout is that nodes with the same connectivity end up being roughly in the same place. For example, this drawing shows clearly that Bill Parks, David Neher, and J.P. Manoux (upper left area) all have worked on HIMYM and Modern Family.
