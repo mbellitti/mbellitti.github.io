@@ -277,20 +277,20 @@ for movie in shared[6]:
 jupyter notebook prints clickable links too.
 
 **BoJack Horseman**
-<a href=https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg>Joel McHale</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMjJkNDg5ZDctM2RlZS00NjFmLTkxZjktMWE5NGQzMDg4NDFhXkEyXkFqcGdeQXVyMTMwMDM1OTQ@.jpg>Alison Brie</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMTQyMTczNzU4Nl5BMl5BanBnXkFtZTYwODUxMjMy.jpg">Ken Jeong</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMTUxNTYwMTQwNV5BMl5BanBnXkFtZTgwMjQ3NzMxOTE@.jpg">Yvette Nicole Brown</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMDA3OGU0YjktNWY5ZC00MDUxLWJhMGUtMDJmZWZkMzczZDcyXkEyXkFqcGdeQXVyMTA4MDI5MTg5.jpg">Paget Brewster</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@.jpg">Keith David</a>
+[Joel McHale] (https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg)
+[Alison Brie] (https://m.media-amazon.com/images/M/MV5BMjJkNDg5ZDctM2RlZS00NjFmLTkxZjktMWE5NGQzMDg4NDFhXkEyXkFqcGdeQXVyMTMwMDM1OTQ@.jpg)
+[Ken Jeong] (https://m.media-amazon.com/images/M/MV5BMTQyMTczNzU4Nl5BMl5BanBnXkFtZTYwODUxMjMy.jpg")
+[Yvette Nicole Brown] (https://m.media-amazon.com/images/M/MV5BMTUxNTYwMTQwNV5BMl5BanBnXkFtZTgwMjQ3NzMxOTE@.jpg")
+[Paget Brewster] (https://m.media-amazon.com/images/M/MV5BMDA3OGU0YjktNWY5ZC00MDUxLWJhMGUtMDJmZWZkMzczZDcyXkEyXkFqcGdeQXVyMTA4MDI5MTg5.jpg")
+[Keith David] (https://m.media-amazon.com/images/M/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@.jpg")
 
 **Regular Show**
-<a href=https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg">Joel McHale</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMTk5OTc5MTM1OV5BMl5BanBnXkFtZTcwMTU4NDI1NA@@.jpg">Gillian Jacobs</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMTUxNTYwMTQwNV5BMl5BanBnXkFtZTgwMjQ3NzMxOTE@.jpg">Yvette Nicole Brown</a>
-<a href=https://m.media-amazon.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@.jpg">Donald Glover</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@.jpg">Keith David</a>
-<a href=https://m.media-amazon.com/images/M/MV5BMTgxNTIyNzIxNV5BMl5BanBnXkFtZTgwODA1NTM2NzE@.jpg">Eddie Pepitone</a>
+[Joel McHale] (https://m.media-amazon.com/images/M/MV5BMTU2ODA0NzMwNV5BMl5BanBnXkFtZTgwOTA4MDA3NTE@.jpg")
+[Gillian Jacobs] (https://m.media-amazon.com/images/M/MV5BMTk5OTc5MTM1OV5BMl5BanBnXkFtZTcwMTU4NDI1NA@@.jpg")
+[Yvette Nicole Brown] (https://m.media-amazon.com/images/M/MV5BMTUxNTYwMTQwNV5BMl5BanBnXkFtZTgwMjQ3NzMxOTE@.jpg")
+[Donald Glover] (https://m.media-amazon.com/images/M/MV5BNzUxNTU5ODkxNl5BMl5BanBnXkFtZTgwOTIyNjc5MDI@.jpg")
+[Keith David] (https://m.media-amazon.com/images/M/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@.jpg")
+[Eddie Pepitone] (https://m.media-amazon.com/images/M/MV5BMTgxNTIyNzIxNV5BMl5BanBnXkFtZTgwODA1NTM2NzE@.jpg")
 
 
 It seems BoJack is basically a reunion of Seson 6. I think I'll watch that next, and I'll give Regular Show a chance too.
