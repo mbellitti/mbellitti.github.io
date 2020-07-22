@@ -154,8 +154,7 @@ ax.set_ylabel("Count");
 ```
 
 
-![svg](Community-Copy1_files/Community-Copy1_15_0.svg)
-
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/Community-Copy1_files/Community-Copy1_15_0.svg)
 
 If I want to keep only the best 10%, below which rating should I cut? 
 
@@ -375,6 +374,8 @@ nx.draw_networkx_edges(G,pos=pos,alpha=0.5,width=0.5);
 
 ![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/Community-Copy1_files/Community-Copy1_37_0.svg)
 
+This image is in SVG format, I recommend right clicking and using "View Image"
+for easier reading of the labels.
 
 An interesting side effect of the [Kamada Kawai](https://www.sciencedirect.com/science/article/abs/pii/0020019089901026?via%3Dihub) layout is that nodes with the same connectivity end up being roughly in the same place. For example, this drawing shows clearly that Bill Parks, David Neher, and J.P. Manoux (upper left area) all have worked on HIMYM and Modern Family.
 The same goes for Jerry Minor, Craig Cackowski, Jordan Black, and Dan Bakkedahl. 
