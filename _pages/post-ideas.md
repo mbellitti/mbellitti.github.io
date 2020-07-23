@@ -18,6 +18,4 @@ Some ideas I would like to expand into full-sized posts, in no particular order:
         - Alignment chart and the "political compass" are moral PCA, Haidt system is a higher dimensional
           version
 - plants are made of air
-
-
-
+- vim tricks 
