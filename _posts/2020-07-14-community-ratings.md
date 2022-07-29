@@ -1212,6 +1212,3 @@ episode_df.pivot_table(index='episode',columns='season',values='rating').style.b
             </tr>
     </tbody></table>
 
-
-
-That was the first time I used a pivot table, this better not awaken anything in me.
