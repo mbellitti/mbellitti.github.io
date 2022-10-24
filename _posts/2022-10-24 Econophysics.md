@@ -1,6 +1,12 @@
 ---
-title:  "Random Matrices in the Stock Market"
-date:  2022-10-24
+title:  "Random Matrices"
+excerpt_separator: "<!--more-->"
+date: 2022-10-24
+categories:
+  - Blog
+tags:
+  - jupyter 
+  - networkx
 ---
 
 # Final project: Testing the Filtered Correlation Matrix approach
