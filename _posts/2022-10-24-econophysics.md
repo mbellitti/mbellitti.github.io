@@ -359,7 +359,7 @@ ax[2].tick_params(axis='x', labelrotation = -45)
 
 
     
-![svg](final_mb_files/final_mb_25_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_25_0.svg)
     
 
 
@@ -1019,7 +1019,7 @@ fig.tight_layout();
 
 
     
-![svg](final_mb_files/final_mb_56_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_56_0.svg)
     
 
 
@@ -1051,7 +1051,7 @@ ax[1,1].legend();
 
 
     
-![svg](final_mb_files/final_mb_58_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_58_0.svg)
     
 
 
@@ -1085,7 +1085,7 @@ plt.legend();
 
 
     
-![svg](final_mb_files/final_mb_62_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_62_0.svg)
     
 
 
@@ -1178,7 +1178,7 @@ ax[2].legend();
 
 
     
-![svg](final_mb_files/final_mb_71_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_71_0.svg)
     
 
 
@@ -1229,7 +1229,7 @@ plt.legend();
 
 
     
-![svg](final_mb_files/final_mb_78_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_78_0.svg)
     
 
 
@@ -1293,7 +1293,7 @@ plt.legend();
 
 
     
-![svg](final_mb_files/final_mb_84_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_84_0.svg)
     
 
 
@@ -1345,7 +1345,7 @@ plt.legend();
 
 
     
-![svg](final_mb_files/final_mb_89_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_89_0.svg)
     
 
 
@@ -1415,7 +1415,7 @@ fig.tight_layout();
 
 
     
-![svg](final_mb_files/final_mb_99_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_99_0.svg)
     
 
 
@@ -1472,7 +1472,7 @@ fig.tight_layout();
 
 
     
-![svg](final_mb_files/final_mb_106_0.svg)
+![](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/final_mb_files/final_mb_106_0.svg)
     
 
 
