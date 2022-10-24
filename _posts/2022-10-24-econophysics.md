@@ -1,5 +1,5 @@
 ---
-title:  "Random Matrices"
+title:  "Random Matrix Filtering for Stock Prices"
 excerpt_separator: "<!--more-->"
 date: 2022-10-24
 categories:
@@ -9,7 +9,7 @@ tags:
   - networkx
 ---
 
-# Final project: Testing the Filtered Correlation Matrix approach
+# Testing the Filtered Correlation Matrix approach
 In this project I will collect the daily price data for the stocks in the S&P500 index over a period of about 4 years (2015-2019), and study the performance of an optimal portfolio (in the Markowitz sense) built using a "filtered" correlation matrix as in (Laloux, Laurent, et al. "Noise dressing of financial correlation matrices." PRL (1999)). Along the way I will check the applicability of random matrix theory to understand the structure of the correlation matrix.
 
 I will use the python `tiingo` package (see [this repository](https://github.com/hydrosquall/tiingo-python)) to interface with the [Tiingo](https://www.tiingo.com/) API and collect historical data for the stocks we are interested in.
