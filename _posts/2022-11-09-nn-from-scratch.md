@@ -9,6 +9,10 @@ tags:
   - machine-learning
 ---
 
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # A Neural Net From Scratch
 I recently watched [Jeremy Howard's](https://www.youtube.com/user/howardjeremyp) series on deep learning. In an early lecture he shows how to construct a neural network in a spreadsheet, which is clunky but works. His point is that there's nothing mystical about pytorch, tensorflow, or any other ML framework, and encourages the students to write a neural network from scratch.
 
