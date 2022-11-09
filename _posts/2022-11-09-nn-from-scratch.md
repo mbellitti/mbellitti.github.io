@@ -33,7 +33,7 @@ labels = data_raw[:,-1].astype(int)
 data = data_raw[:,:-1]
 ```
 
-Our first choice: how do we represent the labels? In the dataset they're a single integer, but if we represent them as integers in our code they behave in ways that are *conceptually wrong*: integers are ordered $(2 > 1)$ but that is entirely irrelevant for the purpose or recognizing the handwritten digits. In fact, it's actively misleading the neural network into learning a structure that does not exist in the data. 
+Our first choice: how do we represent the labels? In the dataset they're a single integer, but if we represent them as integers in our code they behave in ways that are *conceptually wrong*: integers are ordered $$(2 > 1)$$ but that is entirely irrelevant for the purpose or recognizing the handwritten digits. In fact, it's actively misleading the neural network into learning a structure that does not exist in the data. 
 To avoid this problem, we [one-hot](https://en.wikipedia.org/wiki/One-hot) encode the labels
 ```python
     def one_hot_encode(label):
@@ -43,15 +43,15 @@ To avoid this problem, we [one-hot](https://en.wikipedia.org/wiki/One-hot) encod
         return res
 ```
 
-The images we are working with are $8 \times 8$, and we are trying to recognize $10$ digits, so the model must have 64 inputs and 10 outputs. Once we have the model, the fundamental prediction step goes like this:
-- Take a datapoint, represented as a $64$-entry long array $x$
-- multiply by the parameter matrix $W$, which has $64\times 10$ real entries
-- add the bias vector $b$ (a $10$-entry long array)
-- for each entry in $z = Wx + b$ compute the activation $\sigma(z)$, where $\sigma$ is a nonlinear function
+The images we are working with are $$8 \times 8$$, and we are trying to recognize $$10$$ digits, so the model must have 64 inputs and 10 outputs. Once we have the model, the fundamental prediction step goes like this:
+- Take a datapoint, represented as a $$64$$-entry long array $$x$$
+- multiply by the parameter matrix $$W$$, which has $$64\times 10$$ real entries
+- add the bias vector $$b$$ (a $$10$$-entry long array)
+- for each entry in $$z = Wx + b$$ compute the activation $$\sigma(z)$$, where $$\sigma$$ is a nonlinear function
 
 We haven't even started talking about training, and we are hit at full speed by the reality-has-a-lot-of-detail truck:
-- Should we write the $Wx + b$ function to work with a single array $x$ or pack a bunch of them in a matrix $X$? The first approach is simple, and it is clear to think about in terms of a loop (for each datapoint in this batch...). The matrix approach exploits broadcasting and the vectorized math in numpy, which makes it faster. 
-- How do we reseprent the bias vector? We can either treat $W$ and $b$ separately, or extend $W$ with an extra column and append a $1$ to every datapoint. Again, the first option is easier to think about, but the second makes writing the code for gradient descent easier.
+- Should we write the $$Wx + b$$ function to work with a single array $$x$$ or pack a bunch of them in a matrix $$X$$? The first approach is simple, and it is clear to think about in terms of a loop (for each datapoint in this batch...). The matrix approach exploits broadcasting and the vectorized math in numpy, which makes it faster. 
+- How do we reseprent the bias vector? We can either treat $$W$$ and $$b$$ separately, or extend $$W$$ with an extra column and append a $$1$$ to every datapoint. Again, the first option is easier to think about, but the second makes writing the code for gradient descent easier.
 - What nonlinearity? The sigmoid has nice analytical properties, but a [ReLU]https://en.wikipedia.org/wiki/Rectifier_(neural_networks) usually has more stable gradients.
 - How to represent the model in practice? Just write the matrix and a collection of functions acting on it? I prefer to write a class, and think of every action as a method.
 
