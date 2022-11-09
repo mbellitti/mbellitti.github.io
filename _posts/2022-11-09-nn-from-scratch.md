@@ -217,7 +217,9 @@ print(f"Prediction: {layer.predict(idx)}")
 
 
     
-![svg](https://github.com/mbellitti/mbellitti.github.io/blob/master/_posts/nn_from_scratch_files/output_12_1.svg)
+![svg](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/nn_from_scratch_files/output_12_1.svg)
+
+
     
 
 
@@ -252,7 +254,7 @@ plt.ylabel("Valid. Err. Rate")
 
 
     
-![svg](https://github.com/mbellitti/mbellitti.github.io/blob/master/_posts/nn_from_scratch_files/output_15_1.svg)
+![svg](https://raw.githubusercontent.com/mbellitti/mbellitti.github.io/master/_posts/nn_from_scratch_files/output_15_1.svg)
     
 
 
