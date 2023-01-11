@@ -1,0 +1,14 @@
+current directory: /home/ksrnk/Documents/projects/mbellitti.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+/usr/bin/ruby -I /usr/share/rubygems extconf.rb
+creating Makefile
+
+current directory: /home/ksrnk/Documents/projects/mbellitti.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230111-357794-7pvttp sitelibdir\=./.gem.20230111-357794-7pvttp clean
+rm -fr false *.o  *.bak mkmf.log .*.time
+
+current directory: /home/ksrnk/Documents/projects/mbellitti.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230111-357794-7pvttp sitelibdir\=./.gem.20230111-357794-7pvttp
+make: Nothing to be done for 'all'.
+
+current directory: /home/ksrnk/Documents/projects/mbellitti.github.io/vendor/bundle/ruby/3.1.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230111-357794-7pvttp sitelibdir\=./.gem.20230111-357794-7pvttp install
