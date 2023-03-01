@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Matteo Bellitti"
   avatar : "/assets/images/avatar_square.jpg"
-  bio    : "Physics PhD student at BU. "
+  bio    : "Physics PhD and Data Scientist"
   location: "Boston, MA"
   links:
     - label: "GitHub"
