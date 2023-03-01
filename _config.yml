@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Matteo Bellitti"
-  avatar : "/assets/images/pompei.jpg"
+  avatar : "/assets/images/avatar_square.jpg"
   bio    : "Physics PhD student at BU. "
   location: "Boston, MA"
   links:
