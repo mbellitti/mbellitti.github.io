@@ -10,7 +10,9 @@ tags:
 
 
 # Introduction
-In this post (which is available as a notebook on my github page) I look at the [Brain Tumor MRI dataset](https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c), a collection of brain MRI images. 
+In this post I look at the [Brain Tumor MRI dataset](https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c), a collection of brain MRI images. 
+
+To see the interactive plots and images check out [the version](https://www.kaggle.com/code/matteobellitti/cnn-brain-mri-99-accuracy/edit) on Kaggle. You can also run and edit the notebook.
 
 The dataset does not use the [BIDS](https://github.com/bids-standard/) standard, each directory is a class and contains a collection of JPG images, organized like this:
 ```
